@@ -1,0 +1,57 @@
+﻿species_letter,species,plant_number
+a,acgl,1
+a,acgl,2
+a,acgl,3
+a,acgl,4
+b,acsa,5
+b,acsa,6
+b,acsa,7
+b,acsa,8
+c,anfl,9
+c,anfl,10
+c,anfl,11
+c,anfl,12
+d,ansu,13
+d,ansu,14
+d,ansu,15
+d,ansu,16
+e,coci,17
+e,coci,18
+e,coci,19
+e,coci,20
+f,coin ,21
+f,coin ,22
+f,coin ,23
+f,coin ,24
+g,cote,25
+g,cote,26
+g,cote,27
+g,cote,28
+h,eucr,29
+h,eucr,30
+h,eucr,31
+h,eucr,32
+i,eucr_dry,33
+i,eucr_dry,34
+i,eucr_dry,35
+i,eucr_dry,36
+j,eumo,37
+j,eumo,38
+j,eumo,39
+j,eumo,40
+k,eute,41
+k,eute,42
+k,eute,43
+k,eute,44
+l,eute_dry,45
+l,eute_dry,46
+l,eute_dry,47
+l,eute_dry,48
+m,losu,49
+m,losu,50
+m,losu,51
+m,losu,52
+n,meir,53
+n,meir,54
+n,meir,55
+n,meir,56

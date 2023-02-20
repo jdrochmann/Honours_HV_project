@@ -1,0 +1,50 @@
+﻿diversity,mixture,scientific_name,species,count,notes
+1,A,Eucalyptus tereticornis,eute,169,Monoculture of E. tereticornis (local)
+1,B,Eucalyptus tereticornis (dry),eute (dry),169,Monoculture of E. tereticornis (dry)
+1,C,Eucalyptus crebra,eucr,169,Monoculture of E. crebra (local)
+1,D,Eucalyptus crebra (dry),eucr (dry),169,Monoculture of E. crebra (dry)
+3,E,Eucalyptus crebra,eucr,56,
+3,E,Eucalyptus moluccana,eumo,56,
+3,E,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + E. crebra (local) + E. moluccana
+3,F,Eucalyptus crebra (dry),eucr (dry),56,
+3,F,Eucalyptus moluccana,eumo,56,
+3,F,Eucalyptus tereticornis (dry),eute (dry),57,E. tereticornis (dry) + E. crebra (dry) + E. moluccana
+3,G,Corymbia citriodora subsp. variegata,coci,56,
+3,G,Corymbia tesselaris,cote,56,
+3,G,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + C. tesselaris + C. citriodora
+3,H,Corymbia intermedia,coin,56,
+3,H,Eucalyptus crebra,eucr,56,
+3,H,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + E. crebra (local) + C. intermedia
+3,I,Angophora floribunda,anfl,56,
+3,I,Angophora subvelutina,ansu,56,
+3,I,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + Angophoras
+3,J,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + L. suaveolens + M. irbyana
+3,J,Lophostemon suaveolens,losu,56,
+3,J,Melaleuca irbyana,meir,56,
+3,K,Acacia glaucocarpa,acgl,56,
+3,K,Acacia salicina,acsa,56,
+3,K,Eucalyptus tereticornis,eute,57,E. tereticornis (local) + Acacias
+6,L,Corymbia citriodora subsp. variegata,coci,28,
+6,L,Corymbia intermedia,coin,28,
+6,L,Corymbia tesselaris,cote,28,
+6,L,Eucalyptus crebra,eucr,28,
+6,L,Eucalyptus moluccana,eumo,28,
+6,L,Eucalyptus tereticornis,eute,29,Eucalyptus (local) + Corymbias
+6,M,Corymbia citriodora subsp. variegata,coci,28,
+6,M,Corymbia intermedia,coin,28,
+6,M,Corymbia tesselaris,cote,28,
+6,M,Eucalyptus crebra (dry),eucr (dry),28,
+6,M,Eucalyptus moluccana,eumo,28,
+6,M,Eucalyptus tereticornis (dry),eute (dry),29,Eucalyptus (dry) + Corymbias
+6,N,Acacia glaucocarpa,acgl,28,
+6,N,Acacia salicina,acsa,28,
+6,N,Angophora floribunda,anfl,28,
+6,N,Angophora subvelutina,ansu,28,
+6,N,Eucalyptus crebra,eucr,28,
+6,N,Eucalyptus tereticornis,eute,29,Eucalyptus (local) + Angophoras + Acacias
+6,O,Acacia glaucocarpa,acgl,28,
+6,O,Acacia salicina,acsa,28,
+6,O,Eucalyptus crebra,eucr,28,
+6,O,Eucalyptus tereticornis,eute,29,Eucalyptus (local) + other Myrtaceae + Acacias
+6,O,Lophostemon suaveolens,losu,28,
+6,O,Melaleuca irbyana,meir,28,
